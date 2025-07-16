@@ -10,7 +10,11 @@ Features:<br>
 <br> 
 Files Included:<br>
 <br>
-- pdf_cracker.py: Cracking script<br>
+- pdf_cracker.py: Main script<br>
 - CP_protected.pdf: Test PDF (password: 1234)<br>
 - wordlist.txt: Sample wordlist of passwords<br>
+<br>
+Requirements:<br>
+- pikepdf Library<br>
+- tqdm Library<br>
 <br>
