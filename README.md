@@ -1,6 +1,6 @@
-PDF-Cracker-Tool
+PDF-Cracker-Tool<br>
 <br>
--A Python-based tool to brute-force or dictionary-attack password-protected PDF files.
+-A Python-based tool to brute-force or dictionary-attack password-protected PDF files.<br>
 <br>
 Features:<br>
 - Dictionary attack using a wordlist
