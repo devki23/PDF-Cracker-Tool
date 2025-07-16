@@ -9,7 +9,8 @@ Features:<br>
 - Progress bar with live updates
 <br> 
 Files Included:<br>
-- pdf_cracker.py: Cracking script
-- CP_protected.pdf: Test PDF (password: 1234)
-- wordlist.txt: Sample wordlist of passwords
+<br>
+- pdf_cracker.py: Cracking script<br>
+- CP_protected.pdf: Test PDF (password: 1234)<br>
+- wordlist.txt: Sample wordlist of passwords<br>
 <br>
